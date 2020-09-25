@@ -1,0 +1,11 @@
+--2020-09-25 16:45:01--  https://timgsa.baidu.com/timg?image
+Resolving timgsa.baidu.com (timgsa.baidu.com)... 121.227.7.48, 240e:f7:a000:214::73e7:2930
+Connecting to timgsa.baidu.com (timgsa.baidu.com)|121.227.7.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69488 (68K) [image/jpeg]
+Saving to: ‘timg?image’
+
+timg?image             0%[                      ]       0  --.-KB/s               timg?image           100%[=====================>]  67.86K  --.-KB/s    in 0.008s  
+
+2020-09-25 16:45:01 (7.91 MB/s) - ‘timg?image’ saved [69488/69488]
+
